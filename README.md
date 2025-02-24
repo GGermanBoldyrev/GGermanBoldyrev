@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-### 🚀 My name is German Boldyrev, and I'm a full-stack PHP developer in Saint Petersburg, Russia.  I'm also working towards a degree in Applied Informatics.  My current focus is on transitioning to a backend-focused role and becoming a highly skilled specialist. I'm dedicated to continuous learning and improvement in the ever-evolving world of software development.
+🚀 My name is German Boldyrev, and I'm a full-stack PHP developer in Saint Petersburg, Russia.  I'm also working towards a degree in Applied Informatics.  My current focus is on transitioning to a backend-focused role and becoming a highly skilled specialist. I'm dedicated to continuous learning and improvement in the ever-evolving world of software development.
 
 
 # 💻 Tech Stack:
